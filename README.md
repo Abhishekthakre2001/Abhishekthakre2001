@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhishekthakre2001/Abhishekthakre2001/blob/main/profile%20bg.png)
 <h1 align="center">Hi 👋, I'm Abhishek Thakre</h1>
 <h3 align="center">A passionate web developer from Nagpur</h3>
 
