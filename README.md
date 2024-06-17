@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishekpthakre2023@gmail.com**
 
-- 📄 Know about my experiences [https://abhithakre.netlify.app/Abhishek%20Thakre%20Resume.pdf](https://abhithakre.netlify.app/Abhishek%20Thakre%20Resume.pdf)
+- 📄 Know about my experiences [https://abhishekthakre.netlify.app/Abhishek_Thakre_Resume.pdf](https://abhishekthakre.netlify.app/Abhishek_Thakre_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
