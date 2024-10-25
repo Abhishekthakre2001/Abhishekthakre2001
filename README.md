@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React Node**
 
-- 📫 How to reach me **abhishekpthakre2023@gmail.com**
+- 📫 How to reach me ** abhishekkthakare@gmail.com**
 
 - 📄 Know about my experiences [https://abhishekthakre.netlify.app/Abhishek_Thakre_Resume.pdf](https://abhishekthakre.netlify.app/Abhishek_Thakre_Resume.pdf)
 
