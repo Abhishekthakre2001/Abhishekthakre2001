@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Abhishekthakre2001/Abhishekthakre2001/blob/main/profile%20bg.png" alt="Abhishek Thakre Banner" width="100%" />
+  <img src="../profile bg.png" alt="Abhishek Thakre Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Abhishek Thakre</h1>
@@ -16,7 +16,7 @@
 
 - 🔭 Currently working as a **Full Stack Developer** at **Sky Vision IT Solutions Pvt. Ltd.**
 - 🧠 Exploring **Shopify App Development**, **Next.js**, and advanced backend architectures.
-- 🌐 Portfolio: [https://abhithakre.netlify.app](https://www.iamabhishekthakre.me)
+- 🌐 Portfolio: [https://www.iamabhishekthakre.me](https://www.iamabhishekthakre.me)
 - 📄 [Download My Resume](https://www.iamabhishekthakre.me/Abhishek_Thakre.pdf)
 - 💬 Ask me about **React**, **Node.js**, **Scalable Web Apps**, and **MERN Stack**
 - 📫 Reach me at: **abhishekkthakare@gmail.com**
