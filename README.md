@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Abhishekthakre2001/Abhishekthakre2001/blob/main/Abhishek%Thakre.png" alt="Abhishek Thakre Banner" width="100%" />
+  <img src="https://github.com/Abhishekthakre2001/Abhishekthakre2001/blob/main/profile%20bg.png" alt="Abhishek Thakre Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Abhishek Thakre</h1>
